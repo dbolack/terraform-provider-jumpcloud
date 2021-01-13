@@ -18,3 +18,7 @@ vendor/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+dist/
+go.sum
+terraform-provider-appveyor
+terraform_example/
